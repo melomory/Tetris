@@ -1,0 +1,16 @@
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.exe
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.deps.json
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.runtimeconfig.json
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.runtimeconfig.dev.json
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.dll
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\ref\Tetris.dll
+H:\projects\C#\Tetris\Tetris\bin\Debug\net5.0\Tetris.pdb
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.csproj.AssemblyReference.cache
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.AssemblyInfoInputs.cache
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.AssemblyInfo.cs
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.csproj.CoreCompileInputs.cache
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.dll
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\ref\Tetris.dll
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.pdb
+H:\projects\C#\Tetris\Tetris\obj\Debug\net5.0\Tetris.genruntimeconfig.cache
